@@ -8,6 +8,12 @@
  */
 const config = {
   /* TODO: ADD YOUR FIREBASE CONFIGURATION OBJECT HERE */
+  apiKey: "AIzaSyBUMp_wurILX1oYIuPJfaavqBmUa4TdCfQ",
+  authDomain: "friendlychat-cfeef.firebaseapp.com",
+  projectId: "friendlychat-cfeef",
+  storageBucket: "friendlychat-cfeef.appspot.com",
+  messagingSenderId: "462437841210",
+  appId: "1:462437841210:web:83839db9ae06cde387f803"
 };
 
 export function getFirebaseConfig() {
